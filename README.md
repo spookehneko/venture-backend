@@ -1,6 +1,6 @@
-# Socket.io - Simple Chat Server
+# Venture - Chat Server
 
-Socket.io is a real-time chat application built with **Socket.IO**, **Node.js**, and **Express**. Users can set a username and chat in real time with a clean, dark-themed UI. CORS allows connections from multiple domains.
+Venture is a real-time chat application built with **Socket.IO**, **Node.js**, and **Express**. Users can set a username and chat in real time with a clean, dark-themed UI. CORS allows connections from multiple domains.
 
 ## Installation
 
