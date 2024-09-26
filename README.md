@@ -5,14 +5,14 @@ Socket.io is a real-time chat application built with **Socket.IO**, **Node.js**,
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+  <br> ```bash
    git clone https://github.com/FAYSi223/simple-socke.io-chat-server.git
-   cd venture-chat
-2. **Install Socket.IO and Express**
-```npm install express```
-```npm install socket.io```
+   cd venture-chat```
+2. **Install Socket.IO and Express:**
+<br> ```npm install express```
+<br> ```npm install socket.io```
 3. **Install dependencies**:
-   ```npm install```
+   <br> ```npm install```
 3. **Run Server**:
-  ```node server.js```
+  <br> ```node server.js```
 
