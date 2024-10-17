@@ -3,6 +3,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.0",
     "http": "^0.0.1-security",
+    "node": "^22.10.0",
     "socketio": "^1.0.0"
   }
 }
